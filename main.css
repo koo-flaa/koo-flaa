@@ -1,4 +1,4 @@
 body {background-color:red;}
 h1 { font-size:4em; font-family:Garamond; color:yellow; }
-img {display:inline-block;width:200px;height:200px;}
-#bern {width:400px;}
+img {display:inline-block;width:200px;height:200px; float:left;}
+#bern {width:400px; float:right;}
